@@ -40,15 +40,15 @@ function Rewards() {
         </nav>
         <div className="felx absolute  left-20 top-40 bg-black">
           <span className="text-5xl tracking-wider text-yellow-300">
-            CLAMIO{" "}
+            R-social{" "}
           </span>
           <span className="text-5xl tracking-widest text-white ">
             Rewards Program
           </span>
           <div className="relative top-6">
             <p className="text-white pt-14">
-              Refer CLAMIO to fellow creators or sell 100 Digital Products
-              through CLAMIO,
+              Refer R-social to fellow creators or sell 100 Digital Products
+              through social,
             </p>
             <p className="text-white">&</p>
             <p className="text-3xl text-yellow-300">earn Rs. 50000*</p>
@@ -120,7 +120,7 @@ function Rewards() {
             <div className="relative left-20 right-96 flex-col ">
               <p className="relative left-44 text-2xl font-bold">Sign In</p>
               <p className="relative top-8 right-18 text-pretty text-center">
-                Get Registered with CLAMIO with Zero Registration Charge
+                Get Registered with R-social with Zero Registration Charge
               </p>
             </div>
 
@@ -140,7 +140,7 @@ function Rewards() {
             <div className="flex-col">
               <p className="relative left-4 text-2xl font-bold">Earn Points</p>
               <p className="relative  top-8  text-center right-32 text-pretty">
-                Earn CLAMIO rewards point on every referal and product sell
+                Earn R-social rewards point on every referal and product sell
               </p>
             </div>
           </div>
@@ -156,7 +156,7 @@ function Rewards() {
         <div className="relative ">
           <p className="relative top-46 text-3xl pt-40">Refer to Creators</p>
           <span className="relative top-6">
-            On every successful referral you will earn 500 CLAMIO Rewards Coins{" "}
+            On every successful referral you will earn 500 R-social Rewards Coins{" "}
           </span>
           <p className="relative top-4">Every 100 coin = Rs.1</p>
           <div className="relative top-36">
@@ -168,7 +168,7 @@ function Rewards() {
           <img src={Announce} alt="Announce"></img>
           <p className="relative top-46 text-3xl pt-40">Sell 100 Products</p>
           <span className="relative top-6">
-            On every successful referral you will earn 500 CLAMIO Rewards Coins{" "}
+            On every successful referral you will earn 500 R-social Rewards Coins{" "}
           </span>
           <p className="relative top-4">Every 100 coin = Rs.1</p>
         </div>
@@ -203,21 +203,21 @@ function Rewards() {
         </div>
         <div className="flex flex-row">
           <div>
-          <span className="relative left-14 text-3xl font-bold text-yellow-400">CLAMIO </span>
+          <span className="relative left-14 text-3xl font-bold text-yellow-400">R-social </span>
           <span className="relative left-14 text-3xl font-bold"> Debut</span>
           <p className="relative left-14 pt-4 pb-40 ">.1 Sale/1 referal</p>
         </div>
         <div className="relative left-40">
-          <span className="relative left-14 text-3xl font-bold text-yellow-400">CLAMIO </span>
+          <span className="relative left-14 text-3xl font-bold text-yellow-400">R-social </span>
           <span className="relative left-14 text-3xl font-bold"> Debut</span>
           <p className="relative left-14 pt-4 ">.100 Sale/ 25 Referrals</p>
-          <p className="relative left-14 pt-4 pb-40 ">Redeem your CLAMIO Coins</p>
+          <p className="relative left-14 pt-4 pb-40 ">Redeem your R-social Coins</p>
           </div>
         <div className="relative left-96">
-          <span className="relative left-14 text-3xl font-bold text-yellow-400">CLAMIO </span>
+          <span className="relative left-14 text-3xl font-bold text-yellow-400">R-social </span>
           <span className="relative left-14 text-3xl font-bold"> Debut</span></div>
           <p className="relative left-52 pt-16    ">. 5000 Sales</p>
-          <p className="relative left-32 pt-24  ">. Redeem your CLAMIO Coins  .4.5% Discount on Transactional Charges</p>
+          <p className="relative left-32 pt-24  ">. Redeem your R-social Coins  .4.5% Discount on Transactional Charges</p>
           </div>
       </div>
     </div>
